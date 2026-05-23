@@ -51,4 +51,4 @@ ftp> bye
 (exit) 
 
 
-https://github.com/Sidh1911/Linux-FTP-Server_project/blob/fd9a467c35e254ebead3f006f977d03496c36661/6093380174717064466.jpg
+![image alt](https://github.com/Sidh1911/Linux-FTP-Server_project/blob/fd9a467c35e254ebead3f006f977d03496c36661/6093380174717064466.jpg)
